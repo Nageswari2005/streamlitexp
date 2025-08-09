@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Alice",
+    "math": 85,
+    "science": 90,
+    "english": 78,
+    "post": "Class Representative"
+  },
+  {
+    "name": "Bob",
+    "math": 70,
+    "science": 75,
+    "english": 80,
+    "post": "Student"
+  },
+  {
+    "name": "Charlie",
+    "math": 95,
+    "science": 88,
+    "english": 92,
+    "post": "Student"
+  },
+  {
+    "name": "Diana",
+    "math": 60,
+    "science": 65,
+    "english": 70,
+    "post": "Student"
+  },
+  {
+    "name": "Eve",
+    "math": 88,
+    "science": 93,
+    "english": 85,
+    "post": "Vice Representative"
+  }
+]
